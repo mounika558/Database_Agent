@@ -1,0 +1,10 @@
+streamlit
+langchain-google-genai
+langgraph
+langchain
+langchain-core
+mysql-connector-python
+python-dotenv
+pandas
+langchain-mcp-adapters
+mcp
